@@ -14,7 +14,7 @@
 @import url('https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css');
 
 .theme-dark {
-  --dplus-backdrop: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F1%2Fc%2F3%2F692136-beautiful-dark-blue-background-wallpaper-1920x1080-for-windows.jpg&f=1&nofb=1&ipt=165144283bda6a3386ace1a022c4faa508e48d43adfe016c465ac30f88bad3dd');
+  --dplus-backdrop: url(https://github.com/OracleWalker/Theme/blob/main/692136-beautiful-dark-blue-background-wallpaper-1920x1080-for-windows-1704163449.jpg);
   /* Image or color for the backdrop. Defaults to accent color on error. */
   
   --dplus-accent-color-hue: 225;
@@ -46,7 +46,7 @@
 /* If you use light theme, you can modify it separately from dark theme. */
 /* The instructions above work for light theme too. */
 .theme-light {
-  --dplus-backdrop: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2F1%2Fc%2F3%2F692136-beautiful-dark-blue-background-wallpaper-1920x1080-for-windows.jpg&f=1&nofb=1&ipt=165144283bda6a3386ace1a022c4faa508e48d43adfe016c465ac30f88bad3dd');
+  --dplus-backdrop: url(https://github.com/OracleWalker/Theme/blob/main/692136-beautiful-dark-blue-background-wallpaper-1920x1080-for-windows-1704163449.jpg?raw=true);
 
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
